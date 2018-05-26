@@ -2,7 +2,7 @@
 JavaScript speechSynthesis usage with woodchuck tongue twister (from Secret's of Monkey Island game, Guybrush's conversation with Woodsmith)
 
 Shows how to use speechSynthesis on web with famous tongue twister "woodchuck" from Monkey Island game<br />
-#Resources
+#Resources<br/>
 --Monkey Island woodchuck conversation:<br />
 https://www.youtube.com/watch?v=QkiCYT6tGH4<br />
 --Monkey Island conversation text from:<br />
